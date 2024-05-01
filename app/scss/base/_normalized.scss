@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Primary-colors */
+$Primary-Tint1:#E5F2E9;
+$Primary-Tint2:#CAE4D3;
+$Primary-Tint3:#B0D7BD;
+$Primary-Tint4:#96C9A7;
+$Primary-Tint5:#7CBC91;
+$Primary-Tint6:#61AE7B;
+$Primary-Tint7:#4E9968;
+$Primary-color:#417f56;
+$Primary-Shade1:#396F4B;
+$Primary-Shade2:#315F41;
+$Primary-Shade3:#294F36;
+$Primary-Shade4:#21402B;
+$Primary-Shade5:#183020;
+$Primary-Shade6:#102016;
+$Primary-Shade7:#08100B;
+
+
+/* Neutral-colors */
+$Neutral1: #F9F9F9;
+$Neutral2: #E1E1E1;
+$Neutral3: #EDEDED;
+$Neutral4: #CBCBCB;
+$Neutral5: #ADADAD;
+$Neutral6: #757575;
+$Neutral7: #717171;
+$Neutral8: #353535;
+$Black: #0c0c0c;
+
+// State:Error
+$Error-color: #C30000;
+$Error-light-color: #ED2E2E;
+$Error-extraLight-color: #FFF2F2;
+
+// State:Success
+$Success-color: #00966D;
+$Success-light-color: #00BA88;
+$Success-extraLight-color: #F3FDFA;
+
+// State:Warning
+$Warning-color: #A9791C;
+$Warning-light-color: #F4B740;
+$Warning-extraLight-color: #FFF8E1;
